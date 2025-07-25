@@ -43,7 +43,7 @@ This project performs Exploratory Data Analysis (EDA) and feature engineering on
 - 
 ## Files in Repository
 student-performance-eda
-- data/StudentsPerformance.csv
+- data/stud.csv
 - EDA STUDENT PERFORMANCE.ipynb
 - README.md
 
